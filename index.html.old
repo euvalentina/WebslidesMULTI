@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MULTI AM</title>
+    <meta name="description" content="WebSlides is the easiest way to make HTML presentations, portfolios, and landings. Just essential features.">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
+
+    <!-- CSS Base -->
+    <link rel="stylesheet" type='text/css' media='all' href="static/css/base.css">
+
+    <!-- CSS Colors -->
+    <link rel="stylesheet" type='text/css' media='all' href="static/css/colors.css">
+
+    <!-- Optional - CSS SVG Icons (Font Awesome) -->
+    <link rel="stylesheet" type='text/css' media='all' href="static/css/svg-icons.css">
+
+    <!-- SOCIAL CARDS (ADD YOUR INFO) -->
+
+    <!-- FACEBOOK -->
+    <meta property="og:url" content="http://your-url.com/"> <!-- YOUR URL -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="WebSlides — Making HTML Presentations Easy"> <!-- EDIT -->
+    <meta property="og:description" content="WebSlides is about telling stories beautifully. Just the essential features. Good karma."> <!-- EDIT -->
+    <meta property="og:updated_time" content="2017-01-04T17:20:50"> <!-- EDIT -->
+    <meta property="og:image" content="static/images/share-webslides.jpg"> <!-- EDIT -->
+
+    <!-- TWITTER -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@webslides"> <!-- EDIT -->
+    <meta name="twitter:creator" content="@jlantunez"> <!-- EDIT -->
+    <meta name="twitter:title" content="WebSlides — Making HTML Presentations Easy"> <!-- EDIT -->
+    <meta name="twitter:description" content="WebSlides is about good karma. Just essential features. 120+ free slides ready to use."> <!-- EDIT -->
+    <meta name="twitter:image" content="static/images/share-webslides.jpg"> <!-- EDIT -->
+
+    <!-- FAVICONS -->
+    <link rel="shortcut icon" sizes="16x16" href="static/images/favicons/favicon.png">
+    <link rel="shortcut icon" sizes="32x32" href="static/images/favicons/favicon-32.png">
+    <link rel="apple-touch-icon icon" sizes="76x76" href="static/images/favicons/favicon-76.png">
+    <link rel="apple-touch-icon icon" sizes="120x120" href="static/images/favicons/favicon-120.png">
+    <link rel="apple-touch-icon icon" sizes="152x152" href="static/images/favicons/favicon-152.png">
+    <link rel="apple-touch-icon icon" sizes="180x180" href="static/images/favicons/favicon-180.png">
+    <link rel="apple-touch-icon icon" sizes="192x192" href="static/images/favicons/favicon-192.png">
+
+    <!-- Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#333333">
+
+  </head>
+  <body>
+    <main role="main">
+      <article id="webslides" class="horizontal">
+        <section>
+          <span class="background" style="background-image:url('static/images/header_instituicoes.jpg')"></span>
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap">
+            <div class="content-left bg-trans-dark fadeInUp">
+              <img src="static/images/logo.png">
+              <hr>
+              <h1><strong>Multi Talentos</strong></h1>
+              <p>Encontre Talentos em Ação.</p>
+            </div>
+          </div>
+        </section>
+
+        <section id="titulos">
+          <div class="wrap aligncenter">
+            <h1 class="titulo"><strong>Proposta</strong></h1>
+          </div>
+        </section>
+
+        <section class="fullscreen">
+          <div class="card-50">
+            <div class="flex-content">
+              <h2 class="titulo"><strong>Um novo jeito de contratar...</strong></h2>
+              <p class="text-intro">...um projeto colaborativo para fazer uma ponte entre a empresa que
+                precisa contratar e a galera que precisa trabalhar</p>
+            </div>
+            <figure>
+              <img src="static/images/645.jpg" alt="iWatch">
+            </figure>
+        </section>
+
+        <section>
+          <div class="wrap aligncenter">
+            <h1 class="titulo2"><strong>Detectamos os seguintes problemas</strong></h1>
+          </div>
+        </section>
+
+        <section class="fullscreen">
+          <div class="card-50">
+            <figure>
+              <img src="static/images/empresa.jpg" alt="iWatch">
+            </figure>
+            <div class="flex-content">
+              <h2 class="titulo2"><strong>Empresas</strong></h2>
+              <p class="text-intro">Dificuldade das Empresas para a contratação, em achar profissionais especializados, para o que precisa</p>
+              <p class="text-intro">Em 2016, 43% das empresas tiveram dificuldade para preencher vagas</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="bg-secondary slide current" id="section-6">
+          <!--.wrap = container (width: 90%) -->
+          <div class="wrap size-50 frame">
+            <h2 class="text-serif aligncenter">Necessidade de mercado</h2>
+            <p class="text-symbols">* * *</p>
+            <p class="text-intro">Auxiliamos organizadores de hackathons e empresas a encontrar talentos. </p>
+            <p class="text-intro">Com desafios e cursos atendemos profissionais e estudantes que buscam colocar
+              seus conhecimentos em prática e encontrar reconhecimento. </p>
+            <p class="text-intro">Profissionais qualificados estão com dificuldades para achar emprego</p>
+          </div>
+        </section>
+
+<!--
+        <section>
+          <div class="wrap size-70 aligncenter">
+              <h2><strong>Exemplo da Rede de Lojas de Materiais Esportivos - Decathlon</strong></h2>
+              </br><blockquote>
+                <p><strong>"</strong>Empresas usam hackathons para contratar melhor. A Decathlon escolhe seus funcionários em um só dia</p>
+                <p>Antes, os processos se restringiam a apenas entrevistas individuais, que não conseguiam identificar as competências que a Decathlon buscava.</p>
+                <p>Ao reunir muitos candidatos e recrutadores no mesmo dia, o processo amplia a troca de informação entre ambas as partes, “já que não é só a empresa que escolhe o candidato, mas o profissional também escolhe seu empregador”, diz Grasso. Segundo ele, as demissões causadas por contratações erradas diminuíram 5%.<strong>"</strong></p>
+
+                <p>Blandine Grasso, gerente de recrutamento da Decathlon Brasil</p>
+                <p>Fonte: EXAME -  http://exame.abril.com.br/negocios/empresas-querem-atrair-talentos-com-esportes-e-hackathons/</p>
+              </blockquote>
+          </div>
+        </section>
+
+      -->
+
+        <section>
+          <div class="wrap aligncenter">
+              <h2><strong>O fato de uma empresa ser pequena não quer dizer que ela não vai precisar se preocupar com o RH,
+                o departamento de Recursos Humanos. O setor é importante para um empreendimento.</strong></h2>
+              </br><blockquote>
+                <figure>
+                  <img src="static/images/rh_001.jpg" alt="iWatch">
+                </figure>
+
+              </blockquote>
+          </div>
+        </section>
+
+
+        <section class="fullscreen">
+          <div class="card-50">
+            <div class="flex-content">
+              <h2><strong>Necessidade de mercado</strong></h2>
+              <p class="text-intro">Auxiliamos organizadores de hackathons e empresas a encontrar talentos.</p>
+              <p class="text-intro">Com desafios e cursos atendemos profissionais e estudantes que buscam colocar seus conhecimentos em prática e encontrar reconhecimento.</p>
+              <p class="text-intro">Profissionais qualificados estão com dificuldades para achar emprego</p>
+            </div>
+            <figure>
+              <img src="static/images/23.jpg" alt="iWatch">
+            </figure>
+          </div>
+        </section>
+
+        <section class="fullscreen">
+          <div class="card-50">
+            <div class="flex-content">
+              <h2><strong>Cenário futuro para o mercado</strong></h2>
+              <p class="text-intro">Vemos a tendência dos hackathons ainda forte nos Estados Unidos e Europa.</p>
+              <p class="text-intro">Incorporaremos grade de cursos virtuais para manter nossa comunidade de profissionais ativa no Portal.</p>
+              <p class="text-intro">O mercado de crowdsourcing anda estável.</p>
+            </div>
+            <figure>
+              <img src="static/images/780.jpg" alt="iWatch">
+            </figure>
+          </div>
+        </section>
+
+        <section class="fullscreen">
+          <div class="card-50">
+            <div class="flex-content">
+              <h2><strong>Alunos</strong></h2>
+              <p class="text-intro">Dificuldade dos novos formandos na busca pelo seu primeiro emprego, por não conseguir divulgar seu conhecimento</p>
+              <p class="text-intro">Profissionais qualificados estão com dificuldades para achar emprego</p>
+            </div>
+            <figure>
+              <img src="static/images/alunos.jpg" alt="iWatch">
+            </figure>
+          </div>
+        </section>
+
+        <section>
+          <div class="wrap aligncenter">
+            <h2><strong>Solução</strong></h2>
+          </div>
+        </section>
+
+        <section class="bg-gradient-white">
+            <figure class="content-center">
+              <img src="static/images/12.png" style="width: 70%; margin-bottom: 20px;" alt="iWatch">
+            </figure>
+            <div class="wrap">
+              <div class="content-center">
+                <p><b>TEMPO</b> processo de seleção de 1 DIA<br>
+                Redução <b>CUSTOS</b> processo de seleção<br>
+                Redução <b>DEMISSÕES</b> causadas por contratações erradas<br>
+                Melhor <b>EFICIÊNCIA</b> no processo de contratação</p>
+              </div>
+            </div>
+        </section>
+
+        <section>
+          <figure class="content-center">
+            <img src="static/images/logo.png" style="margin-bottom: 20px;" alt="iWatch">
+          </figure>
+          <div class="wrap">
+            <div class="content-center">
+              <p>A partir da necessidade das Empresas, em contratar profissionais, a <strong>MULTI</strong> irá realizar eventos onde os participantes serão desafiados e
+                avaliados para ter uma forma de contratação mais eficiente fornecendo os perfis, trabalhos realizados e avaliações recebidas</p>
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <div class="wrap aligncenter">
+            <h2><strong>Influenciadores</strong></h2>
+          </div>
+        </section>
+
+        <section class="fullscreen">
+          <div class="card-50">
+            <figure>
+              <img src="static/images/34.jpg" alt="iWatch">
+            </figure>
+            <div class="flex-content">
+              <h2><strong>Contribuidores da comunidade</strong></h2>
+              <p class="text-intro">Os eventos contarão com a presença de influenciadores da comunidade relacionada ao desafio, dispostos a ajudar e compartilhar conhecimento com os participantes</p>
+            </div>
+          </div>
+        </section>
+
+      </article>
+      <!-- end article -->
+    </main>
+    <!-- end main -->
+
+    <script src="static/js/webslides.js"></script>
+    <script>
+      window.ws = new WebSlides();
+    </script>
+
+    <!-- OPTIONAL - svg-icons.js (fontastic.me - Font Awesome as svg icons) -->
+    <script defer src="static/js/svg-icons.js"></script>
+
+  </body>
+</html>
