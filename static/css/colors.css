@@ -945,24 +945,18 @@ background-color:rgba(255,255,255 , 0.3);
   font-size: 27px;
 }
 
- 
-
-  .sozinho2{
+.tituloG{
   font-size: 120px;
-  color: #db4e83;
-  text-shadow: 4px;
+  color: white;
+  text-shadow: 6px;
   font-weight: bold;
   
-  }
-
-  
-
-.titulo14 {
-  color: #FFA500!important;
-  font-size: 50px;
 }
 
-.titulo2 {
-  color: #B03060!important;
-  font-size: 50px;
+.sozinho2{
+  font-size: 120px;
+  color: #ed5e94;
+  text-shadow: 6px;
+  font-weight: bold;
+  
 }
